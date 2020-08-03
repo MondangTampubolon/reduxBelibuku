@@ -1,0 +1,1 @@
+export const harga = 20000;
